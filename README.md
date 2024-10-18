@@ -4,15 +4,6 @@
   
 
 ### <div align="center">My Name Is Oğuz.</div>  
-  
-
-- 🔭 I’m currently working on Freelance  
-  
-
-- 🌱 I’m currently learning NodeJS and it's frameworks.
-  
-  
-
 <br/>  
 
 
